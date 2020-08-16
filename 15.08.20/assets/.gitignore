@@ -1,0 +1,6 @@
+./lesson*
+./vscode
+./js_2.0_hw
+.*
+
+!.gitignore
